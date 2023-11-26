@@ -13,4 +13,4 @@ tags : project_yunseul
 위에서도 말했듯 학생 중고거래 사이트를 만드는 것이 목표.
 그리고 23-11-26, 공부하기 시작해 __겨울방학__, 늦어도 __여름방학__ 엔 출시하는 것이 목표
 ## 2-2. 오늘 정해진 것
-![](../assets/images/plan.png)
+![](https://github.com/clov2/clov2.github.io/blob/master/assets/images/plan.png?raw=true)
